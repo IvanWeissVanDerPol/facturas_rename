@@ -1,0 +1,19 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "21/06/2021 15:31",
+    "Business_Name": "Farma",
+    "Business_Type": "Farmacia",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "Punto Farma",
+    "Numero_de_Factura": "151335220",
+    "Monto": "377.850",
+    "Descuento": "0",
+    "IVA_Total": "8%",
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "ASPEN TENSIOMETRO DIGITAL CH991 SEMAU",
+            "Precio_Total": "377.850"
+        }
+    ]
+}

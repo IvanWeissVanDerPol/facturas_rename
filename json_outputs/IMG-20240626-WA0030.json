@@ -1,0 +1,23 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "24/06/2024",
+    "Business_Name": "PUNTO 63 IDA ADELA S.A.",
+    "Business_Type": "Combustible",
+    "Concepto_de_la_Compra": "Diesel",
+    "Nombre_del_Local": "IDA ADELA",
+    "Numero_de_Factura": "001-005-0001507",
+    "Monto": "200.000",
+    "Descuento": "0",
+    "IVA_Total": "0",
+    "Categoria_de_Compra": "Combustible",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "DIESEL XTREME",
+            "Precio_Total": "100.000"
+        },
+        {
+            "Producto": "DIESEL NORMAL",
+            "Precio_Total": "100.000"
+        }
+    ]
+}

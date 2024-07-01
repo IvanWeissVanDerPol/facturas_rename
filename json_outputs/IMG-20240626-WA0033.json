@@ -1,0 +1,27 @@
+{
+    "File_Name": "invoice.jpg",
+    "Date": "2024-06-26",
+    "Business_Name": "La Vianda Feliz",
+    "Business_Type": "Restaurante",
+    "Concepto_de_la_Compra": "Comida y Bebida",
+    "Nombre_del_Local": "La Vianda Feliz",
+    "Numero_de_Factura": "00008669",
+    "Monto": 67855,
+    "Descuento": 0,
+    "IVA_Total": 6169,
+    "Categoria_de_Compra": "Restaurante",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "Combo P.Fogón",
+            "Precio_Total": 63000
+        },
+        {
+            "Producto": "Vaso Descartable",
+            "Precio_Total": 15000
+        },
+        {
+            "Producto": "Jugo NATURAL DE FRUTAS",
+            "Precio_Total": 5000
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "24/06/2024",
+    "Business_Name": "FERIA ASUNCION S.A.",
+    "Business_Type": "Bazar-Merceria-Perfumeria",
+    "Concepto_de_la_Compra": "Juguetería, Cotillón, Librería",
+    "Nombre_del_Local": "FERIA ASUNCION S.A.",
+    "Numero_de_Factura": "18171941",
+    "Monto": 199000,
+    "Descuento": 0,
+    "IVA_Total": 18091,
+    "Categoria_de_Compra": "Bazar-Mercería",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "ALMOHADA RECT BLANCA",
+            "Precio_Total": 147000
+        },
+        {
+            "Producto": "ALMOHADA PP/VAJE",
+            "Precio_Total": 52000
+        }
+    ]
+}

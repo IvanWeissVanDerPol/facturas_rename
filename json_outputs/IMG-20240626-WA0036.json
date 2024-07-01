@@ -1,0 +1,27 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "21/06/2024",
+    "Business_Name": "FARMACIA OLIVA S.A.",
+    "Business_Type": "Farmacia y Perfumeria",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "Sucursal: INGAVI",
+    "Numero_de_Factura": "133-002-0014210",
+    "Monto": 215550,
+    "Descuento": 13502,
+    "IVA_Total": null,
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "PANASONIC PILA ALCALINA AAA X 2 UNID.",
+            "Precio_Total": 8650
+        },
+        {
+            "Producto": "Ox metro de pulso (Siegen)",
+            "Precio_Total": 206910
+        },
+        {
+            "Producto": "RES. SEDECO 347",
+            "Precio_Total": -10
+        }
+    ]
+}

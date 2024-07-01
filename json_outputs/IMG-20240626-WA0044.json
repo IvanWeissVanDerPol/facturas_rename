@@ -1,0 +1,35 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "26/05/2024",
+    "Business_Name": "San Fernando IPS",
+    "Business_Type": "Restaurante",
+    "Concepto_de_la_Compra": "Comida",
+    "Nombre_del_Local": "San Fernando IPS",
+    "Numero_de_Factura": "111-002-0213374",
+    "Monto": "23,150.00",
+    "Descuento": "0.00",
+    "IVA_Total": "2,165.00",
+    "Categoria_de_Compra": "Restaurante",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "Arroz con Leche Dona Ang",
+            "Precio_Total": "4,400"
+        },
+        {
+            "Producto": "Sandwich Todo Rico de Miga Ec",
+            "Precio_Total": "3,500"
+        },
+        {
+            "Producto": "Upaleta Helado de Manzana de 20",
+            "Precio_Total": "1,600"
+        },
+        {
+            "Producto": "C/Y Leche",
+            "Precio_Total": "4,900"
+        },
+        {
+            "Producto": "Bollo Bigote Unidad",
+            "Precio_Total": "250"
+        }
+    ]
+}

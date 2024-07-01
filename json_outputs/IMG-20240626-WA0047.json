@@ -1,0 +1,31 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "22/06/2024",
+    "Business_Name": "FARMACIA OLIVA S.A.",
+    "Business_Type": "Farmacia y Perfumería",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "INGAVI",
+    "Numero_de_Factura": "133-001-0012422",
+    "Monto": "17900",
+    "Descuento": "0",
+    "IVA_Total": "1762.5",
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "BOLSAS PEQUENA",
+            "Precio_Total": "200"
+        },
+        {
+            "Producto": "Electrodos adulto OBS",
+            "Precio_Total": "1000"
+        },
+        {
+            "Producto": "Electrodos adulto OBS",
+            "Precio_Total": "17625"
+        },
+        {
+            "Producto": "ENS. POR PARAGUAY",
+            "Precio_Total": "75"
+        }
+    ]
+}

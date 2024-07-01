@@ -1,0 +1,19 @@
+{
+    "File_Name": "factura_emmanuel.jpg",
+    "Date": "26.06.24",
+    "Business_Name": "FARMACIA EMMANUEL",
+    "Business_Type": "Farmacia y Perfumería Cosméticos",
+    "Concepto_de_la_Compra": "Productos de farmacia",
+    "Nombre_del_Local": "Farmacia Emmanuel",
+    "Numero_de_Factura": "0025815",
+    "Monto": 196000,
+    "Descuento": 0,
+    "IVA_Total": 9333,
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "Puscrit",
+            "Precio_Total": 196000
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "22/06/2024",
+    "Business_Name": "FARMACIA OLIVA S.A.",
+    "Business_Type": "Farmacia",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "INGAVI",
+    "Numero_de_Factura": "133-002-0014311",
+    "Monto": "25.142",
+    "Descuento": "3.742",
+    "IVA_Total": "1.060",
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "BOLSAS PEQUENA",
+            "Precio_Total": "200"
+        },
+        {
+            "Producto": "Cismetil 100mg gotas x 15 ml",
+            "Precio_Total": "21.208"
+        },
+        {
+            "Producto": "SEDECO - RES. SEDECO 347",
+            "Precio_Total": "-8"
+        }
+    ]
+}

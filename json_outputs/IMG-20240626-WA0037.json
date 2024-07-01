@@ -1,0 +1,27 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "19/06/2024",
+    "Business_Name": "FARMACIA OLIVA S.A.",
+    "Business_Type": "Farmacia y Perfumería",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "INGAVI",
+    "Numero_de_Factura": "133-001-00121803",
+    "Monto": "57.094",
+    "Descuento": "5.693",
+    "IVA_Total": "5.152",
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "BOLSAS PEQUENA",
+            "Precio_Total": "200"
+        },
+        {
+            "Producto": "BIO PA AL EXTRA GRANDE X 10UNI",
+            "Precio_Total": "51.242"
+        },
+        {
+            "Producto": "SEDECO - RES. SEDECO 347",
+            "Precio_Total": "-42"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "23/06/2024 17:30:57",
+    "Business_Name": "BIGGIE S.A.",
+    "Business_Type": "Supermercado",
+    "Concepto_de_la_Compra": "Artículos de supermercado",
+    "Nombre_del_Local": "San Benigno Nro. 880",
+    "Numero_de_Factura": "111-002-0214577",
+    "Monto": "7.850,00",
+    "Descuento": "0,00",
+    "IVA_Total": "714,00",
+    "Categoria_de_Compra": "Supermercado",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "Agua Mineral Dasani sin",
+            "Precio_Total": "3.900"
+        },
+        {
+            "Producto": "Agua Mineral La Fuente s",
+            "Precio_Total": "3.700"
+        },
+        {
+            "Producto": "Bolsa Biggie x unidad.",
+            "Precio_Total": "250"
+        }
+    ]
+}

@@ -1,0 +1,651 @@
+[
+    {
+        "File_Name": "factura_emmanuel.jpg",
+        "Date": "26.06.24",
+        "Business_Name": "FARMACIA EMMANUEL",
+        "Business_Type": "Farmacia y Perfumería Cosméticos",
+        "Concepto_de_la_Compra": "Productos de farmacia",
+        "Nombre_del_Local": "Farmacia Emmanuel",
+        "Numero_de_Factura": "0025815",
+        "Monto": 196000,
+        "Descuento": 0,
+        "IVA_Total": 9333,
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "Puscrit",
+                "Precio_Total": 196000
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "24/06/2024",
+        "Business_Name": "MONTEFARMA",
+        "Business_Type": "Farmacia",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "ALFREDO",
+        "Numero_de_Factura": "001-002-0004974",
+        "Monto": "262,488",
+        "Descuento": null,
+        "IVA_Total": "12,499",
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "PLUSCORT 1000 MG",
+                "Precio_Total": "262,488"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "24/06/2024",
+        "Business_Name": "PUNTO 63 IDA ADELA S.A.",
+        "Business_Type": "Combustible",
+        "Concepto_de_la_Compra": "Diesel",
+        "Nombre_del_Local": "IDA ADELA",
+        "Numero_de_Factura": "001-005-0001507",
+        "Monto": "200.000",
+        "Descuento": "0",
+        "IVA_Total": "0",
+        "Categoria_de_Compra": "Combustible",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "DIESEL XTREME",
+                "Precio_Total": "100.000"
+            },
+            {
+                "Producto": "DIESEL NORMAL",
+                "Precio_Total": "100.000"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "24/06/2024",
+        "Business_Name": "FERIA ASUNCION S.A.",
+        "Business_Type": "Bazar-Merceria-Perfumeria",
+        "Concepto_de_la_Compra": "Juguetería, Cotillón, Librería",
+        "Nombre_del_Local": "FERIA ASUNCION S.A.",
+        "Numero_de_Factura": "18171941",
+        "Monto": 199000,
+        "Descuento": 0,
+        "IVA_Total": 18091,
+        "Categoria_de_Compra": "Bazar-Mercería",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "ALMOHADA RECT BLANCA",
+                "Precio_Total": 147000
+            },
+            {
+                "Producto": "ALMOHADA PP/VAJE",
+                "Precio_Total": 52000
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "24/06/2022",
+        "Business_Name": "FARMIX S.A.",
+        "Business_Type": "Farmacia",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "PUNTO FARMA IPES INGAVI",
+        "Numero_de_Factura": "0346622",
+        "Monto": 170.1,
+        "Descuento": 30000,
+        "IVA_Total": 17010,
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "BICARBONATO DE SODIO 8.4% QUIMFA SOL",
+                "Precio_Total": 100.0
+            },
+            {
+                "Producto": "BOLSAS MEDIANAS 30X45 PUNTO FARMA CERT",
+                "Precio_Total": 70.1
+            }
+        ]
+    },
+    {
+        "File_Name": "invoice.jpg",
+        "Date": "2024-06-26",
+        "Business_Name": "La Vianda Feliz",
+        "Business_Type": "Restaurante",
+        "Concepto_de_la_Compra": "Comida y Bebida",
+        "Nombre_del_Local": "La Vianda Feliz",
+        "Numero_de_Factura": "00008669",
+        "Monto": 67855,
+        "Descuento": 0,
+        "IVA_Total": 6169,
+        "Categoria_de_Compra": "Restaurante",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "Combo P.Fogón",
+                "Precio_Total": 63000
+            },
+            {
+                "Producto": "Vaso Descartable",
+                "Precio_Total": 15000
+            },
+            {
+                "Producto": "Jugo NATURAL DE FRUTAS",
+                "Precio_Total": 5000
+            }
+        ]
+    },
+    {
+        "File_Name": "factura1.jpg",
+        "Date": "24/07/2022",
+        "Business_Name": "DOMINGUEZ MEDINA",
+        "Business_Type": "Supermercado",
+        "Concepto_de_la_Compra": "Artículos de supermercado",
+        "Nombre_del_Local": "DOMINGUEZ MEDINA",
+        "Numero_de_Factura": "787",
+        "Monto": 49380.0,
+        "Descuento": 0.0,
+        "IVA_Total": 4028.0,
+        "Categoria_de_Compra": "Supermercado",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "Yogurt Los Colonos Sin L",
+                "Precio_Total": 3390.0
+            },
+            {
+                "Producto": "Galleta Bauducco Clásica",
+                "Precio_Total": 15890.0
+            },
+            {
+                "Producto": "Galleta Bauducco Integral",
+                "Precio_Total": 6800.0
+            },
+            {
+                "Producto": "Bolsa Pifis Linda de 2",
+                "Precio_Total": 2050.0
+            },
+            {
+                "Producto": "Chipa Pifis Linda de 2",
+                "Precio_Total": 1150.0
+            },
+            {
+                "Producto": "Jugo Watts de Manzana de 20",
+                "Precio_Total": 7200.0
+            },
+            {
+                "Producto": "Jugo Watts de Manzana de 20",
+                "Precio_Total": 7200.0
+            },
+            {
+                "Producto": "Bolsa Boogie x unidad",
+                "Precio_Total": 6000.0
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "21/06/2021 15:31",
+        "Business_Name": "Farma",
+        "Business_Type": "Farmacia",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "Punto Farma",
+        "Numero_de_Factura": "151335220",
+        "Monto": "377.850",
+        "Descuento": "0",
+        "IVA_Total": "8%",
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "ASPEN TENSIOMETRO DIGITAL CH991 SEMAU",
+                "Precio_Total": "377.850"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "21/06/2024",
+        "Business_Name": "FARMACIA OLIVA S.A.",
+        "Business_Type": "Farmacia y Perfumeria",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "Sucursal: INGAVI",
+        "Numero_de_Factura": "133-002-0014210",
+        "Monto": 215550,
+        "Descuento": 13502,
+        "IVA_Total": null,
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "PANASONIC PILA ALCALINA AAA X 2 UNID.",
+                "Precio_Total": 8650
+            },
+            {
+                "Producto": "Ox metro de pulso (Siegen)",
+                "Precio_Total": 206910
+            },
+            {
+                "Producto": "RES. SEDECO 347",
+                "Precio_Total": -10
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "19/06/2024",
+        "Business_Name": "FARMACIA OLIVA S.A.",
+        "Business_Type": "Farmacia y Perfumería",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "INGAVI",
+        "Numero_de_Factura": "133-001-00121803",
+        "Monto": "57.094",
+        "Descuento": "5.693",
+        "IVA_Total": "5.152",
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "BOLSAS PEQUENA",
+                "Precio_Total": "200"
+            },
+            {
+                "Producto": "BIO PA AL EXTRA GRANDE X 10UNI",
+                "Precio_Total": "51.242"
+            },
+            {
+                "Producto": "SEDECO - RES. SEDECO 347",
+                "Precio_Total": "-42"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "19/05/2024",
+        "Business_Name": "Farma S.A.",
+        "Business_Type": "Farmacia",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "Punto IPS Ingavi",
+        "Numero_de_Factura": "346-001-0339902",
+        "Monto": 38100,
+        "Descuento": 48,
+        "IVA_Total": 3848,
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "SOFRAM SYNT 15CMX2.7M 65-01 DPM",
+                "Precio_Total": 14450
+            },
+            {
+                "Producto": "SEDECO 34/UNID",
+                "Precio_Total": 12716
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "19/06/2024",
+        "Business_Name": "BIGGIE S.A.",
+        "Business_Type": "Supermercado",
+        "Concepto_de_la_Compra": "Artículos de supermercado",
+        "Nombre_del_Local": "San Belén Mburuvicha",
+        "Numero_de_Factura": "1084898239",
+        "Monto": "34650.00",
+        "Descuento": "0.00",
+        "IVA_Total": "3150.00",
+        "Categoria_de_Compra": "Supermercado",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "Jugo purifru Mix x 2 de 4",
+                "Precio_Total": "12140.00"
+            },
+            {
+                "Producto": "Sanwich de Milagro Rico x 2",
+                "Precio_Total": "11580.00"
+            },
+            {
+                "Producto": "Los Boigos",
+                "Precio_Total": "23080.00"
+            },
+            {
+                "Producto": "XYZ",
+                "Precio_Total": "250.00"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "19/06/2024",
+        "Business_Name": "FARMACIA OLIVA S.A.",
+        "Business_Type": "Farmacia y Perfumería",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "INGAVI",
+        "Numero_de_Factura": "133-001-002184",
+        "Monto": 126490,
+        "Descuento": 26640,
+        "IVA_Total": 21978,
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "BOLSAS PEQUENA",
+                "Precio_Total": 200
+            },
+            {
+                "Producto": "COLGATE CEPILLO PERIOGA RD EXTR. SUAVE",
+                "Precio_Total": 37222
+            },
+            {
+                "Producto": "COLGATE C.D. MP ANTICARIE S 50 GR.",
+                "Precio_Total": 6464
+            },
+            {
+                "Producto": "COLGATE ENJUAGUE PLAX PRO ALIVIO 250ML",
+                "Precio_Total": 34000
+            },
+            {
+                "Producto": "Etidol 600 mg caja x 10 capsulas blandas",
+                "Precio_Total": 21978
+            },
+            {
+                "Producto": "SEDECO RAS. SEDECO 347",
+                "Precio_Total": -34
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "20/06/23",
+        "Business_Name": "SUPERMERCADO EL AHORRAZO",
+        "Business_Type": "Supermercado",
+        "Concepto_de_la_Compra": "Artículos de supermercado",
+        "Nombre_del_Local": "Supermercado Ahorrazo Italia Mariscal Estigarribia",
+        "Numero_de_Factura": "003-026-0127422",
+        "Monto": "154.800 Gs",
+        "Descuento": "0",
+        "IVA_Total": "14.073 Gs",
+        "Categoria_de_Compra": "Supermercado",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "840011134900 LF CAMISON LN",
+                "Precio_Total": "46.900 Gs"
+            },
+            {
+                "Producto": "640291 LF CAMISON LN",
+                "Precio_Total": "46.900 Gs"
+            },
+            {
+                "Producto": "1 KA",
+                "Precio_Total": "5.000 Gs"
+            },
+            {
+                "Producto": "7840031050000 DUNIA ANGELA",
+                "Precio_Total": "5.450 Gs"
+            },
+            {
+                "Producto": "7840031075445 A",
+                "Precio_Total": "4.450 Gs"
+            },
+            {
+                "Producto": "78400310500043 TREBOL YOGURT",
+                "Precio_Total": "4.450 Gs"
+            },
+            {
+                "Producto": "442",
+                "Precio_Total": "200 Gs"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "29/05/2022",
+        "Business_Name": "SUPERMARKET EL AHORRITO S.A.",
+        "Business_Type": "Supermercado",
+        "Concepto_de_la_Compra": "Artículos de supermercado",
+        "Nombre_del_Local": "SUPERMARKET EL AHORRITO S.A.",
+        "Numero_de_Factura": "011046333",
+        "Monto": "274.900 Gs",
+        "Descuento": "0 Gs",
+        "IVA_Total": "24.991 Gs",
+        "Categoria_de_Compra": "Supermercado",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "MR SLILA PAVA 18G 2005 10",
+                "Precio_Total": "99.100 Gs"
+            },
+            {
+                "Producto": "MR SILLA R.A.",
+                "Precio_Total": "78.700 Gs"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura_imagen.jpg",
+        "Date": "20/06/2024 11:22",
+        "Business_Name": "FARMACIA OLIVA S.A.",
+        "Business_Type": "Farmacia y Perfumería",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "Sucursal: INGAVI",
+        "Numero_de_Factura": "133-001-0012223",
+        "Monto": "106.208",
+        "Descuento": "21.208",
+        "IVA_Total": "",
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "BOLSAS MEDIANA",
+                "Precio_Total": "200"
+            },
+            {
+                "Producto": "Celexin 1 G Iny. ( Fco )",
+                "Precio_Total": "84.832"
+            },
+            {
+                "Producto": "RES. SEDECO",
+                "Precio_Total": "-32"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "26/05/2024",
+        "Business_Name": "San Fernando IPS",
+        "Business_Type": "Restaurante",
+        "Concepto_de_la_Compra": "Comida",
+        "Nombre_del_Local": "San Fernando IPS",
+        "Numero_de_Factura": "111-002-0213374",
+        "Monto": "23,150.00",
+        "Descuento": "0.00",
+        "IVA_Total": "2,165.00",
+        "Categoria_de_Compra": "Restaurante",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "Arroz con Leche Dona Ang",
+                "Precio_Total": "4,400"
+            },
+            {
+                "Producto": "Sandwich Todo Rico de Miga Ec",
+                "Precio_Total": "3,500"
+            },
+            {
+                "Producto": "Upaleta Helado de Manzana de 20",
+                "Precio_Total": "1,600"
+            },
+            {
+                "Producto": "C/Y Leche",
+                "Precio_Total": "4,900"
+            },
+            {
+                "Producto": "Bollo Bigote Unidad",
+                "Precio_Total": "250"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpeg",
+        "Date": "21/06/2024",
+        "Business_Name": "BIGGIE S.A.",
+        "Business_Type": "Supermercado",
+        "Concepto_de_la_Compra": "Artículos de supermercado",
+        "Nombre_del_Local": "Fdo. IPS Ingaví",
+        "Numero_de_Factura": "111-001-0211197",
+        "Monto": "14550",
+        "Descuento": "0",
+        "IVA_Total": "1323",
+        "Categoria_de_Compra": "Supermercado",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "Agua Mineral La Costa",
+                "Precio_Total": "4000"
+            },
+            {
+                "Producto": "Agua Mineral Seltz Pico",
+                "Precio_Total": "3250"
+            },
+            {
+                "Producto": "Chicle Beldent Infinit",
+                "Precio_Total": "7300"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "31/08/2023",
+        "Business_Name": "Farmacia Olay",
+        "Business_Type": "Farmacia",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "Barro Centro",
+        "Numero_de_Factura": "624180",
+        "Monto": "50.914",
+        "Descuento": "-31",
+        "IVA_Total": "7.130",
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "540230 - OLAY JABON LIQUIDO BLUE",
+                "Precio_Total": "29.025"
+            },
+            {
+                "Producto": "1114741 - BOLSAS PEQUENA",
+                "Precio_Total": "1.010"
+            },
+            {
+                "Producto": "4999272 - NIVEA DEO ROLLON PEARL &",
+                "Precio_Total": "20.062"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "22/06/2024",
+        "Business_Name": "FARMACIA OLIVA S.A.",
+        "Business_Type": "Farmacia y Perfumería",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "INGAVI",
+        "Numero_de_Factura": "133-001-0012422",
+        "Monto": "17900",
+        "Descuento": "0",
+        "IVA_Total": "1762.5",
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "BOLSAS PEQUENA",
+                "Precio_Total": "200"
+            },
+            {
+                "Producto": "Electrodos adulto OBS",
+                "Precio_Total": "1000"
+            },
+            {
+                "Producto": "Electrodos adulto OBS",
+                "Precio_Total": "17625"
+            },
+            {
+                "Producto": "ENS. POR PARAGUAY",
+                "Precio_Total": "75"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "23/06/2024 17:30:57",
+        "Business_Name": "BIGGIE S.A.",
+        "Business_Type": "Supermercado",
+        "Concepto_de_la_Compra": "Artículos de supermercado",
+        "Nombre_del_Local": "San Benigno Nro. 880",
+        "Numero_de_Factura": "111-002-0214577",
+        "Monto": "7.850,00",
+        "Descuento": "0,00",
+        "IVA_Total": "714,00",
+        "Categoria_de_Compra": "Supermercado",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "Agua Mineral Dasani sin",
+                "Precio_Total": "3.900"
+            },
+            {
+                "Producto": "Agua Mineral La Fuente s",
+                "Precio_Total": "3.700"
+            },
+            {
+                "Producto": "Bolsa Biggie x unidad.",
+                "Precio_Total": "250"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "22/06/2024",
+        "Business_Name": "FARMACIA OLIVA S.A.",
+        "Business_Type": "Farmacia",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "INGAVI",
+        "Numero_de_Factura": "133-002-0014311",
+        "Monto": "25.142",
+        "Descuento": "3.742",
+        "IVA_Total": "1.060",
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "BOLSAS PEQUENA",
+                "Precio_Total": "200"
+            },
+            {
+                "Producto": "Cismetil 100mg gotas x 15 ml",
+                "Precio_Total": "21.208"
+            },
+            {
+                "Producto": "SEDECO - RES. SEDECO 347",
+                "Precio_Total": "-8"
+            }
+        ]
+    },
+    {
+        "File_Name": "factura.jpg",
+        "Date": "22/06/2024",
+        "Business_Name": "FARMA S.A.",
+        "Business_Type": "Farmacia",
+        "Concepto_de_la_Compra": "Artículos de farmacia",
+        "Nombre_del_Local": "Sucursal PUNTO 346-BIGGIE IPS INGAVI",
+        "Numero_de_Factura": "346-001-0341295",
+        "Monto": 84700,
+        "Descuento": 25708,
+        "IVA_Total": null,
+        "Categoria_de_Compra": "Farmacia",
+        "Lista_de_Productos_Comprados": [
+            {
+                "Producto": "CONDOR CEPILLO CAB. JULIA K6 R.6802",
+                "Precio_Total": 21900
+            },
+            {
+                "Producto": "BEA TOALLA P/ROSTRO R.23116 UNID",
+                "Precio_Total": 15938
+            },
+            {
+                "Producto": "A&M GOMAS VARIOS X10 R.3790 UNID",
+                "Precio_Total": 16321
+            },
+            {
+                "Producto": "NIVEA LABELLO MEDIC PROTEC LIP CARE",
+                "Precio_Total": 30685
+            },
+            {
+                "Producto": "RES.SEDECO 347 UNID",
+                "Precio_Total": -44
+            }
+        ]
+    }
+]

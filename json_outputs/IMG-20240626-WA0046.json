@@ -1,0 +1,27 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "31/08/2023",
+    "Business_Name": "Farmacia Olay",
+    "Business_Type": "Farmacia",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "Barro Centro",
+    "Numero_de_Factura": "624180",
+    "Monto": "50.914",
+    "Descuento": "-31",
+    "IVA_Total": "7.130",
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "540230 - OLAY JABON LIQUIDO BLUE",
+            "Precio_Total": "29.025"
+        },
+        {
+            "Producto": "1114741 - BOLSAS PEQUENA",
+            "Precio_Total": "1.010"
+        },
+        {
+            "Producto": "4999272 - NIVEA DEO ROLLON PEARL &",
+            "Precio_Total": "20.062"
+        }
+    ]
+}

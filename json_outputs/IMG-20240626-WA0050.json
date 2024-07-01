@@ -1,0 +1,35 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "22/06/2024",
+    "Business_Name": "FARMA S.A.",
+    "Business_Type": "Farmacia",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "Sucursal PUNTO 346-BIGGIE IPS INGAVI",
+    "Numero_de_Factura": "346-001-0341295",
+    "Monto": 84700,
+    "Descuento": 25708,
+    "IVA_Total": null,
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "CONDOR CEPILLO CAB. JULIA K6 R.6802",
+            "Precio_Total": 21900
+        },
+        {
+            "Producto": "BEA TOALLA P/ROSTRO R.23116 UNID",
+            "Precio_Total": 15938
+        },
+        {
+            "Producto": "A&M GOMAS VARIOS X10 R.3790 UNID",
+            "Precio_Total": 16321
+        },
+        {
+            "Producto": "NIVEA LABELLO MEDIC PROTEC LIP CARE",
+            "Precio_Total": 30685
+        },
+        {
+            "Producto": "RES.SEDECO 347 UNID",
+            "Precio_Total": -44
+        }
+    ]
+}

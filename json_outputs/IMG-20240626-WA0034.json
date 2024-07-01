@@ -1,0 +1,47 @@
+{
+    "File_Name": "factura1.jpg",
+    "Date": "24/07/2022",
+    "Business_Name": "DOMINGUEZ MEDINA",
+    "Business_Type": "Supermercado",
+    "Concepto_de_la_Compra": "Artículos de supermercado",
+    "Nombre_del_Local": "DOMINGUEZ MEDINA",
+    "Numero_de_Factura": "787",
+    "Monto": 49380.0,
+    "Descuento": 0.0,
+    "IVA_Total": 4028.0,
+    "Categoria_de_Compra": "Supermercado",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "Yogurt Los Colonos Sin L",
+            "Precio_Total": 3390.0
+        },
+        {
+            "Producto": "Galleta Bauducco Clásica",
+            "Precio_Total": 15890.0
+        },
+        {
+            "Producto": "Galleta Bauducco Integral",
+            "Precio_Total": 6800.0
+        },
+        {
+            "Producto": "Bolsa Pifis Linda de 2",
+            "Precio_Total": 2050.0
+        },
+        {
+            "Producto": "Chipa Pifis Linda de 2",
+            "Precio_Total": 1150.0
+        },
+        {
+            "Producto": "Jugo Watts de Manzana de 20",
+            "Precio_Total": 7200.0
+        },
+        {
+            "Producto": "Jugo Watts de Manzana de 20",
+            "Precio_Total": 7200.0
+        },
+        {
+            "Producto": "Bolsa Boogie x unidad",
+            "Precio_Total": 6000.0
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "29/05/2022",
+    "Business_Name": "SUPERMARKET EL AHORRITO S.A.",
+    "Business_Type": "Supermercado",
+    "Concepto_de_la_Compra": "Artículos de supermercado",
+    "Nombre_del_Local": "SUPERMARKET EL AHORRITO S.A.",
+    "Numero_de_Factura": "011046333",
+    "Monto": "274.900 Gs",
+    "Descuento": "0 Gs",
+    "IVA_Total": "24.991 Gs",
+    "Categoria_de_Compra": "Supermercado",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "MR SLILA PAVA 18G 2005 10",
+            "Precio_Total": "99.100 Gs"
+        },
+        {
+            "Producto": "MR SILLA R.A.",
+            "Precio_Total": "78.700 Gs"
+        }
+    ]
+}

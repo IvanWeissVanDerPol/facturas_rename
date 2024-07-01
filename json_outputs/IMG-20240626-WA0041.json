@@ -1,0 +1,43 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "20/06/23",
+    "Business_Name": "SUPERMERCADO EL AHORRAZO",
+    "Business_Type": "Supermercado",
+    "Concepto_de_la_Compra": "Artículos de supermercado",
+    "Nombre_del_Local": "Supermercado Ahorrazo Italia Mariscal Estigarribia",
+    "Numero_de_Factura": "003-026-0127422",
+    "Monto": "154.800 Gs",
+    "Descuento": "0",
+    "IVA_Total": "14.073 Gs",
+    "Categoria_de_Compra": "Supermercado",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "840011134900 LF CAMISON LN",
+            "Precio_Total": "46.900 Gs"
+        },
+        {
+            "Producto": "640291 LF CAMISON LN",
+            "Precio_Total": "46.900 Gs"
+        },
+        {
+            "Producto": "1 KA",
+            "Precio_Total": "5.000 Gs"
+        },
+        {
+            "Producto": "7840031050000 DUNIA ANGELA",
+            "Precio_Total": "5.450 Gs"
+        },
+        {
+            "Producto": "7840031075445 A",
+            "Precio_Total": "4.450 Gs"
+        },
+        {
+            "Producto": "78400310500043 TREBOL YOGURT",
+            "Precio_Total": "4.450 Gs"
+        },
+        {
+            "Producto": "442",
+            "Precio_Total": "200 Gs"
+        }
+    ]
+}

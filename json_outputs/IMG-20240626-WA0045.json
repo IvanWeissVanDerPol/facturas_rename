@@ -1,0 +1,27 @@
+{
+    "File_Name": "factura.jpeg",
+    "Date": "21/06/2024",
+    "Business_Name": "BIGGIE S.A.",
+    "Business_Type": "Supermercado",
+    "Concepto_de_la_Compra": "Artículos de supermercado",
+    "Nombre_del_Local": "Fdo. IPS Ingaví",
+    "Numero_de_Factura": "111-001-0211197",
+    "Monto": "14550",
+    "Descuento": "0",
+    "IVA_Total": "1323",
+    "Categoria_de_Compra": "Supermercado",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "Agua Mineral La Costa",
+            "Precio_Total": "4000"
+        },
+        {
+            "Producto": "Agua Mineral Seltz Pico",
+            "Precio_Total": "3250"
+        },
+        {
+            "Producto": "Chicle Beldent Infinit",
+            "Precio_Total": "7300"
+        }
+    ]
+}

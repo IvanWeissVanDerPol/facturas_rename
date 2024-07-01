@@ -1,0 +1,31 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "19/06/2024",
+    "Business_Name": "BIGGIE S.A.",
+    "Business_Type": "Supermercado",
+    "Concepto_de_la_Compra": "Artículos de supermercado",
+    "Nombre_del_Local": "San Belén Mburuvicha",
+    "Numero_de_Factura": "1084898239",
+    "Monto": "34650.00",
+    "Descuento": "0.00",
+    "IVA_Total": "3150.00",
+    "Categoria_de_Compra": "Supermercado",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "Jugo purifru Mix x 2 de 4",
+            "Precio_Total": "12140.00"
+        },
+        {
+            "Producto": "Sanwich de Milagro Rico x 2",
+            "Precio_Total": "11580.00"
+        },
+        {
+            "Producto": "Los Boigos",
+            "Precio_Total": "23080.00"
+        },
+        {
+            "Producto": "XYZ",
+            "Precio_Total": "250.00"
+        }
+    ]
+}

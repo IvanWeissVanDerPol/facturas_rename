@@ -1,0 +1,23 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "19/05/2024",
+    "Business_Name": "Farma S.A.",
+    "Business_Type": "Farmacia",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "Punto IPS Ingavi",
+    "Numero_de_Factura": "346-001-0339902",
+    "Monto": 38100,
+    "Descuento": 48,
+    "IVA_Total": 3848,
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "SOFRAM SYNT 15CMX2.7M 65-01 DPM",
+            "Precio_Total": 14450
+        },
+        {
+            "Producto": "SEDECO 34/UNID",
+            "Precio_Total": 12716
+        }
+    ]
+}

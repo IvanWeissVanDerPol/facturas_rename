@@ -1,0 +1,27 @@
+{
+    "File_Name": "factura_imagen.jpg",
+    "Date": "20/06/2024 11:22",
+    "Business_Name": "FARMACIA OLIVA S.A.",
+    "Business_Type": "Farmacia y Perfumería",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "Sucursal: INGAVI",
+    "Numero_de_Factura": "133-001-0012223",
+    "Monto": "106.208",
+    "Descuento": "21.208",
+    "IVA_Total": "",
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "BOLSAS MEDIANA",
+            "Precio_Total": "200"
+        },
+        {
+            "Producto": "Celexin 1 G Iny. ( Fco )",
+            "Precio_Total": "84.832"
+        },
+        {
+            "Producto": "RES. SEDECO",
+            "Precio_Total": "-32"
+        }
+    ]
+}

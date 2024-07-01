@@ -1,0 +1,19 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "24/06/2024",
+    "Business_Name": "MONTEFARMA",
+    "Business_Type": "Farmacia",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "ALFREDO",
+    "Numero_de_Factura": "001-002-0004974",
+    "Monto": "262,488",
+    "Descuento": null,
+    "IVA_Total": "12,499",
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "PLUSCORT 1000 MG",
+            "Precio_Total": "262,488"
+        }
+    ]
+}

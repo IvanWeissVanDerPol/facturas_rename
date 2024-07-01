@@ -1,0 +1,39 @@
+{
+    "File_Name": "factura.jpg",
+    "Date": "19/06/2024",
+    "Business_Name": "FARMACIA OLIVA S.A.",
+    "Business_Type": "Farmacia y Perfumería",
+    "Concepto_de_la_Compra": "Artículos de farmacia",
+    "Nombre_del_Local": "INGAVI",
+    "Numero_de_Factura": "133-001-002184",
+    "Monto": 126490,
+    "Descuento": 26640,
+    "IVA_Total": 21978,
+    "Categoria_de_Compra": "Farmacia",
+    "Lista_de_Productos_Comprados": [
+        {
+            "Producto": "BOLSAS PEQUENA",
+            "Precio_Total": 200
+        },
+        {
+            "Producto": "COLGATE CEPILLO PERIOGA RD EXTR. SUAVE",
+            "Precio_Total": 37222
+        },
+        {
+            "Producto": "COLGATE C.D. MP ANTICARIE S 50 GR.",
+            "Precio_Total": 6464
+        },
+        {
+            "Producto": "COLGATE ENJUAGUE PLAX PRO ALIVIO 250ML",
+            "Precio_Total": 34000
+        },
+        {
+            "Producto": "Etidol 600 mg caja x 10 capsulas blandas",
+            "Precio_Total": 21978
+        },
+        {
+            "Producto": "SEDECO RAS. SEDECO 347",
+            "Precio_Total": -34
+        }
+    ]
+}
